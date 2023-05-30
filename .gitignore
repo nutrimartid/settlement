@@ -1,0 +1,11 @@
+*.xlsx
+*.csv
+*.xls
+*.Rhistory
+*.zip
+.ipynb_checkpoints/*
+Untitled.ipynb
+WMS masking.ipynb
+Outbound MP x Paid.ipynb
+Gudang Cek Paid.ipynb
+New folder/*
