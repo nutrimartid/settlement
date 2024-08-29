@@ -5,7 +5,10 @@
 *.zip
 .ipynb_checkpoints/*
 Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
 WMS masking.ipynb
 Outbound MP x Paid.ipynb
 Gudang Cek Paid.ipynb
 New folder/*
+wms.txt
